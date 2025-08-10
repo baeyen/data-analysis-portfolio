@@ -23,12 +23,11 @@ Excel (Pivot Tables/Charts, Slicers)
 Dashboard storytelling, segmentation, KPI cards
 
 ## Repository Contents
-- `data/` — sample or anonymised dataset(s)
-- `workbooks/` / `sql/` / `notebooks/` — core project files
-- `outputs/screenshots/` — static visuals for quick preview
+- data/ — sample or anonymised dataset(s)
+- workbooks/ — Excel workbook(s)
+- slides/ — PowerPoint (.pptx) and PDF export
+- outputs/screenshots/ — static visuals for quick preview
 
-Include a GIF or PNGs of the dashboard to improve quick scanning.
-
----
-
-> *From messy tables to meaningful truth — this project moves from raw data to decisions.*
+## How to View
+1. Open slides/Sales-Analysis-Presentation.pdf for the narrative.
+2. Open workbooks/Sales-Analysis.xlsx to explore the analysis.
