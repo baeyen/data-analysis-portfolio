@@ -23,11 +23,10 @@ Excel (SUMIF, COUNTIF, AVERAGEIF, YEARFRAC, CONCATENATE)
 KPI design, date arithmetic, conditional logic, HR analytics
 
 ## Repository Contents
-- data/ — sample or anonymised dataset(s)
-- workbooks/ — Excel workbook(s)
-- slides/ — PowerPoint (.pptx) and PDF export
-- outputs/screenshots/ — static visuals for quick preview
+- data/ — sample or anonymised HR data
+- workbooks/ — Excel workbook(s) with SUMIF/COUNTIF/YEARFRAC logic
+- outputs/screenshots/ — visuals for tenure, bonuses, eligibility
+- data_dictionary.md — short column/assumptions guide
 
 ## How to View
-1. Open slides/Sales-Analysis-Presentation.pdf for the narrative.
-2. Open workbooks/Sales-Analysis.xlsx to explore the analysis.
+Start with outputs/screenshots/, then explore workbooks/*.xlsx.
