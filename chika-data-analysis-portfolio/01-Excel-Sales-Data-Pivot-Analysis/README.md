@@ -23,12 +23,12 @@ Excel (Pivot Tables, Grouping, Basic Formulas)
 Data summarisation, business interpretation, aggregation logic
 
 ## Repository Contents
-- `data/` — sample or anonymised dataset(s)
-- `workbooks/` / `sql/` / `notebooks/` — core project files
-- `outputs/screenshots/` — static visuals for quick preview
+- data/ — sample or anonymised dataset(s)
+- workbooks/ — Excel workbook(s)
+- slides/ — PowerPoint (.pptx) and PDF export
+- outputs/screenshots/ — static visuals for quick preview
 
-Place your main `.xlsx` file in `workbooks/` and add 2–3 dashboard screenshots to `outputs/screenshots/`.
+## How to View
+1. Open slides/Sales-Analysis-Presentation.pdf for the narrative.
+2. Open workbooks/Sales-Analysis.xlsx to explore the analysis.
 
----
-
-> *From messy tables to meaningful truth — this project moves from raw data to decisions.*
