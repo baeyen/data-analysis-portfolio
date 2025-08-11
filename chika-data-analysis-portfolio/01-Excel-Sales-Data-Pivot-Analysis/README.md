@@ -13,10 +13,15 @@ Files in this folder
 
 01-Excel-Sales-Data-Pivot-Analysis/
 ├─ workbooks/
-│  └─ ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx
+
+│└─ ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx
+
 ├─ outputs/
+
 │  └─ screenshots/
+
 │     └─ total-sales-by-region.png   # chart image (optional)
+
 └─ README.md
 
 Dataset (columns)
