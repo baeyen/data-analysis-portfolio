@@ -1,15 +1,15 @@
-Sales Data Pivot Analysis (Excel)
+##Sales Data Pivot Analysis (Excel)
 
 -A small dataset, a simple pivot, a clear answer: which region sells the most.
 
-What this project shows
+#What this project shows
 -How to turn a tidy sales table into pivot tables and a column chart
 
 -How to answer: “Which region drives total sales?”
 
 -A clean, recruiter-friendly result you can scan in seconds
 
-Files in this folder
+#Files in this folder
 
 01-Excel-Sales-Data-Pivot-Analysis/
 ├─ workbooks/
@@ -24,7 +24,7 @@ Files in this folder
 
 └─ README.md
 
-Dataset (columns)
+#Dataset (columns)
 -Date
 
 -Salesperson
@@ -40,7 +40,7 @@ Dataset (columns)
 -Total Sales → Units Sold * Unit Price
 (If you have a Discount column, use Final Sales instead.)
 
-Step-by-step: how this was built (Excel)
+#Step-by-step: how this was built (Excel)
 1. Prepare data
 
 -Make sure Units Sold, Unit Price, and Total Sales are numbers.
@@ -69,7 +69,7 @@ Step-by-step: how this was built (Excel)
 
 -Add slicers for quick exploration.
 
-Results (from this file)
+#Results (from this file)
 | Region                 | Total Sales |
 | ---------------------- | ----------: |
 | East                   |         990 |
@@ -77,7 +77,7 @@ Results (from this file)
 | South                  |       3,000 |
 | **Grand Total: 7,140** |             |
 
-Takeaways
+#Takeaways
 
 -North is the top-performing region.
 
@@ -85,7 +85,7 @@ Takeaways
 
 -East lags and may need attention (pricing, volume, or product mix).
 
-How to view
+#How to view
 -Open: workbooks/ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx.
 
 -Go to the pivotchart sheet.
@@ -95,5 +95,5 @@ How to view
 -For a quick look without downloading, see ![Total Sales by Region](outputs/screenshots/total-sales-by-region.png)
 
 
-Tools & skills
+#Tools & skills
 -Excel — Pivot Tables, Pivot Charts, basic data cleaning, aggregation, and interpretation.
