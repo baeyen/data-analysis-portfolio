@@ -20,7 +20,7 @@ Files in this folder
 
 │  └─ screenshots/
 
-│     └─ total-sales-by-region.png   # chart image (optional)
+│     └─ total-sales-by-region.png   # chart image 
 
 └─ README.md
 
@@ -55,7 +55,7 @@ Step-by-step: how this was built (Excel)
 
 -Values: Sum of Total Sales
 
--(Optional) Filters/Slicers: Salesperson, Product.
+- Filters/Slicers: Salesperson, Product.
 
 3. Add a chart
 
@@ -65,7 +65,7 @@ Step-by-step: how this was built (Excel)
 
 4. Make it easy to read
 
--Format currency, add data labels (optional).
+-Format currency, add data labels .
 
 -Add slicers for quick exploration.
 
