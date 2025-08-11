@@ -92,7 +92,8 @@ How to view
 
 -Use the Region / Salesperson slicers to explore.
 
--For a quick look without downloading, see outputs/screenshots/.
+-For a quick look without downloading, see ![Total Sales by Region](outputs/screenshots/total-sales-by-region.png)
+
 
 Tools & skills
 -Excel — Pivot Tables, Pivot Charts, basic data cleaning, aggregation, and interpretation.
