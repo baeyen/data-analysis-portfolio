@@ -1,14 +1,16 @@
 Sales Data Pivot Analysis (Excel)
-A small dataset, a simple pivot, a clear answer: which region sells the most.
+
+-A small dataset, a simple pivot, a clear answer: which region sells the most.
 
 What this project shows
-How to turn a tidy sales table into pivot tables and a column chart
+-How to turn a tidy sales table into pivot tables and a column chart
 
-How to answer: “Which region drives total sales?”
+-How to answer: “Which region drives total sales?”
 
-A clean, recruiter-friendly result you can scan in seconds
+-A clean, recruiter-friendly result you can scan in seconds
 
 Files in this folder
+
 01-Excel-Sales-Data-Pivot-Analysis/
 ├─ workbooks/
 │  └─ ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx
@@ -18,49 +20,49 @@ Files in this folder
 └─ README.md
 
 Dataset (columns)
-Date
+-Date
 
-Salesperson
+-Salesperson
 
-Region
+-Region
 
-Product
+-Product
 
-Units Sold
+-Units Sold
 
-Unit Price
+-Unit Price
 
-Total Sales → Units Sold * Unit Price
+-Total Sales → Units Sold * Unit Price
 (If you have a Discount column, use Final Sales instead.)
 
 Step-by-step: how this was built (Excel)
-Prepare data
+1. Prepare data
 
-Make sure Units Sold, Unit Price, and Total Sales are numbers.
+-Make sure Units Sold, Unit Price, and Total Sales are numbers.
 
-If needed, add a Total Sales column: =Units Sold * Unit Price.
+-If needed, add a Total Sales column: =Units Sold * Unit Price.
 
-Create a PivotTable
+2. Create a PivotTable
 
-Select the data table → Insert → PivotTable.
+-Select the data table → Insert → PivotTable.
 
-Rows: Region
+-Rows: Region
 
-Values: Sum of Total Sales
+-Values: Sum of Total Sales
 
-(Optional) Filters/Slicers: Salesperson, Product.
+-(Optional) Filters/Slicers: Salesperson, Product.
 
-Add a chart
+3. Add a chart
 
-With the pivot selected → Insert → Column Chart.
+-With the pivot selected → Insert → Column Chart.
 
-Title: TOTAL SALES BY REGION.
+-Title: TOTAL SALES BY REGION.
 
-Make it easy to read
+4. Make it easy to read
 
-Format currency, add data labels (optional).
+-Format currency, add data labels (optional).
 
-Add slicers for quick exploration.
+-Add slicers for quick exploration.
 
 Results (from this file)
 | Region                 | Total Sales |
@@ -72,20 +74,20 @@ Results (from this file)
 
 Takeaways
 
-North is the top-performing region.
+-North is the top-performing region.
 
-South is close behind.
+-South is close behind.
 
-East lags and may need attention (pricing, volume, or product mix).
+-East lags and may need attention (pricing, volume, or product mix).
 
 How to view
-Open: workbooks/ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx.
+-Open: workbooks/ASSIGNMENT 1. CHIKA CELESTINE IROEGBULEM.xlsx.
 
-Go to the pivotchart sheet.
+-Go to the pivotchart sheet.
 
-Use the Region / Salesperson slicers to explore.
+-Use the Region / Salesperson slicers to explore.
 
-For a quick look without downloading, see outputs/screenshots/.
+-For a quick look without downloading, see outputs/screenshots/.
 
 Tools & skills
-Excel — Pivot Tables, Pivot Charts, basic data cleaning, aggregation, and interpretation.
+-Excel — Pivot Tables, Pivot Charts, basic data cleaning, aggregation, and interpretation.
