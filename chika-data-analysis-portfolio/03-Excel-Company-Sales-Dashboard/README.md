@@ -2,9 +2,6 @@
 
 *A tidy workbook that answers three fast questions: what sold, when it moved, and where to look next.*
 
-![Total Sales by Product](outputs/screenshots/Colum%20sales%20by%20product.png)
-![Daily Sales Trend](outputs/screenshots/Daily%20sales%20trend%20.png)
-
 ## Purpose
 
 Turn raw transactions into quick, visual answers:
