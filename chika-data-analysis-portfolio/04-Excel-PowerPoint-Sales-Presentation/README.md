@@ -93,16 +93,11 @@ Results (Laptop revenue by region)
 
 └─ README.md
 
-#How to view
+Want the files? Open my GitHub and go to “04-Excel-PowerPoint-Sales-Presentation”.
 
-[One-Page Summary](docs/One-Page-Summary.md) ·
-[3-Slide Deck Outline](slides/3-slide-deck-outline.md)
+Repo: https://github.com/baeyen/data-analysis-portfolio
 
-![May vs June by Region](outputs/screenshots/may-vs-june-by-region.png)
 
-[Workbook](workbooks/E-commerce%20Sales%20Data%20project%201.xlsx) ·
-[Slides (.pptx)](slides/Sales%20Drop%20in%20Laptop%20Segment%20%E2%80%93%20June%202025.pptx)
-)
 
 
 #Tools & skills
