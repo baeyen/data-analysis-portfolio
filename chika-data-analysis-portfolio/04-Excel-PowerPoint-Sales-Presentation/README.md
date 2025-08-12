@@ -94,6 +94,7 @@ Results (Laptop revenue by region)
 └─ README.md
 
 #How to view
+
 -Open workbooks/E-commerce Sales Data project 1.xlsx → check the comparison table and chart.
 
 -Open slides/Sales Drop in Laptop Segment – June 2025.pptx for the 3-slide stakeholder brief.
