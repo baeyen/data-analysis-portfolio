@@ -49,3 +49,4 @@ Date · Product · Region (if available) · Units Sold · Unit Price · Discount
 ## Skills & tools
 
 **Excel:** PivotTables, SUMIFS/AVERAGEIFS, column & line charts, light data cleaning, KPI summarization.
+
