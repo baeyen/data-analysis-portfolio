@@ -95,13 +95,14 @@ Results (Laptop revenue by region)
 
 #How to view
 
--Open workbooks/E-commerce Sales Data project 1.xlsx → check the comparison table and chart.
+[One-Page Summary](docs/One-Page-Summary.md) ·
+[3-Slide Deck Outline](slides/3-slide-deck-outline.md)
 
--Open slides/Sales Drop in Laptop Segment – June 2025.pptx for the 3-slide stakeholder brief.
+![May vs June by Region](outputs/screenshots/may-vs-june-by-region.png)
 
--Open docs/Business Problem Analysis.docx for the one-pager framing and docs/Summary.docx for the step-by-step notes.
+[Workbook](workbooks/E-commerce%20Sales%20Data%20project%201.xlsx)
+[Slides (.pptx)](slides/Sales%20Drop%20in%20Laptop%20Segment%20%E2%80%93%20June%202025.pptx)
 
--For a quick glance in GitHub, see images in outputs/screenshots/.
 
 #Tools & skills
 -Excel: TEXT, SUMIFS, percentage math, charting.
