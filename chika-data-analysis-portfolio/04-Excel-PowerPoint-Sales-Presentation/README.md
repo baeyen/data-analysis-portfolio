@@ -100,8 +100,9 @@ Results (Laptop revenue by region)
 
 ![May vs June by Region](outputs/screenshots/may-vs-june-by-region.png)
 
-[Workbook](workbooks/E-commerce%20Sales%20Data%20project%201.xlsx)
+[Workbook](workbooks/E-commerce%20Sales%20Data%20project%201.xlsx) ·
 [Slides (.pptx)](slides/Sales%20Drop%20in%20Laptop%20Segment%20%E2%80%93%20June%202025.pptx)
+)
 
 
 #Tools & skills
