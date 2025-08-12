@@ -122,21 +122,37 @@ WHERE d.DeliveryDate IS NULL;
 ```
 
 05-SQL-Customer-Orders-Inventory/
+
 ├─ workbooks/
+
 │  └─ Customer_Orders_Inventory_Project.xlsx
+
 ├─ docs/
+
 │  └─ SQL_Project_Report_Customer_Orders.docx
+
 ├─ outputs/
+
 │  └─ screenshots/
+
 │     ├─ missing-emails.jpg
+
 │     ├─ duplicate-names.jpg
+
 │     ├─ low-stock.png
+
 │     ├─ delivery-performance-by-month.jpg
+
 │     ├─ revenue-by-product.jpg
+
 │     ├─ orders-per-customer.jpg
+
 │     ├─ customer-segmentation.jpg
+
 │     ├─ customer-segmentation.jpg (2)
+
 │     └─ undelivered-orders.jpg
+
 └─ README.md
 
 
