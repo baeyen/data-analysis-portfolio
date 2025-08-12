@@ -20,7 +20,7 @@
 
 │  └─ screenshots/
 
-│     └─ total-sales-by-region.png   # chart image 
+│     └─ total-sales-by-region.png   
 
 └─ README.md
 
