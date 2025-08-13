@@ -60,3 +60,11 @@ This project showcases how Excel can be used for **real-time operational monitor
 
 ---
 
+📄 [Download the Excel Dashboard](WFM_RealTime_Performance_31July2025.xlsx)  
+📘 [Read the full report](My WFM_RealTime_Project_Report.docx)  
+
+### 📸 Dashboard Visuals
+
+![Adherence](outputs/screenshots/Adherence status.png)  
+![Hourly Volume](outputs/screenshots/Sum actual by intervals.png)  
+![Agent Volume](outputs/screenshots/Sum of actual calls by Agent.png)
