@@ -1,34 +1,62 @@
-# WFM Real-Time Performance Analysis (Excel)
+# 📊 Project 08 – Excel WFM Real-Time Performance Monitoring
 
-*From raw rows to insight — a clear arc from question to answer.*
-
-## Problem
-Simulate Workforce Management decision-making using intraday data.
-
-## Data
-Schedule tables, interval adherence, planned vs. actual calls, SLA thresholds.
-
-## Approach
-Compared planned vs. actual by interval; measured adherence and productivity; flagged top/low performers.
-
-## Key Insights
-- Shifts with highest/lowest loads identified
-- Agent productivity distribution profiled
-- SLA compliance assessed
-
-## Tools
-Excel (Pivoting, Metrics)
-
-## Skills Demonstrated
-Operations analytics, SLA design, performance dashboards
-
-## Repository Contents
-- `data/` — sample or anonymised dataset(s)
-- `workbooks/` / `sql/` / `notebooks/` — core project files
-- `outputs/screenshots/` — static visuals for quick preview
-
-Include `metrics.md` describing adherence formulas and SLA definitions.
+This project simulates real-world Workforce Management (WFM) performance tracking using **Microsoft Excel**. It analyzes team adherence, agent productivity, and hourly call volumes to determine if **service level agreements (SLAs)** are being met.
 
 ---
 
-> *From messy tables to meaningful truth — this project moves from raw data to decisions.*
+### 🧠 Business Problem
+
+WFM analysts must track in real-time:
+- How many calls are planned vs. actually handled?
+- Which agents are on time, late, or offline?
+- What hours are the busiest?
+- Are we meeting our SLA for adherence?
+
+---
+
+### 🛠️ Tools Used
+- Microsoft Excel (Pivot Tables, Charts, Formulas)
+- Conditional Formatting
+- KPI Summary Tables
+
+---
+
+### 📁 Files in this Project
+| File | Description |
+|------|-------------|
+| `WFM_RealTime_Performance_31July2025.xlsx` | Excel workbook with full data, dashboards, and charts |
+| `My WFM_RealTime_Project_Report.docx` | Documented report of analysis methods, formulas, and findings |
+| `Adherence status.png` | Visual showing agent adherence by status |
+| `Sum actual by intervals.png` | Line chart of calls handled by hour |
+| `Sum of actual calls by Agent.png` | Bar chart of agent-level call volume |
+
+---
+
+### ✅ Key Business Insights
+
+| Metric | Value |
+|--------|-------|
+| **Planned Calls Today** | 1,335 |
+| **Actual Calls Handled** | 1,118 |
+| **Call Gap** | 217 |
+| **Average Team Adherence** | 55% |
+| **SLA Target** | 85% |
+| **SLA Met?** | ❌ No |
+
+---
+
+### 📌 Sample Questions Answered
+
+- Which agents need coaching due to low adherence?
+- What hours had the highest and lowest traffic?
+- Which agent handled the most calls?
+- Are shifts equally productive?
+
+---
+
+### 🧾 Summary
+
+This project showcases how Excel can be used for **real-time operational monitoring** — replicating the tasks of a WFM Analyst in a contact center. It emphasizes data-driven performance tracking and adherence analysis.
+
+---
+
