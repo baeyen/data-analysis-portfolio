@@ -1,52 +1,67 @@
-# Data Analysis Portfolio — Chika Celestine Iroegbulem
+# 📂 Chika Data Analysis Portfolio
 
-A collection of real-world inspired data analysis projects completed using Excel, SQL, and Power BI.  
-Each project focuses on solving a specific business problem using data cleaning, transformation, analysis, and visualisation techniques.
-
----
-
-## 📂 Project List
-
-### 01 — Excel: Sales Data Pivot Analysis
-**Skills:** Pivot tables, calculated fields, chart creation  
-**Summary:** Analysed company sales data to identify trends and performance metrics using pivot tables and charts.
-
-### 02 — Excel: HR Data Analysis
-**Skills:** Data cleaning, conditional formatting, lookup functions  
-**Summary:** Cleaned and analysed HR records to track employee demographics and performance metrics.
-
-### 03 — Excel: Company Sales Dashboard
-**Skills:** Dashboard design, dynamic charts, slicers  
-**Summary:** Built an interactive sales dashboard providing real-time insights into product performance and revenue trends.
-
-### 04 — Excel + PowerPoint: Sales Presentation
-**Skills:** Business storytelling, chart interpretation, slide design  
-**Summary:** Investigated a month-over-month drop in laptop sales and prepared a 3-slide executive presentation with actionable recommendations.
-
-### 05 — SQL: Customer Orders & Inventory Analysis
-**Skills:** SQL querying, joins, aggregations, data validation  
-**Summary:** Analysed customer orders and inventory data to identify top products, undelivered orders, customer segmentation, and low-stock risks.
-
-### 06 — Power BI: Inventory Supply Chain
-**Skills:** Power BI dashboard creation, KPI tracking, DAX measures  
-**Summary:** Built a supply chain dashboard to monitor stock levels, supplier performance, and delivery timelines.
-
-### 07 — SQL: Patient Visits Data Cleaning
-**Skills:** SQL Server, data cleaning, duplicate removal, date standardisation  
-**Summary:** Cleaned and standardised hospital patient visit records, ensuring data accuracy and readiness for analysis.
-
-### 08 — Excel: Workforce Real-Time Performance
-**Skills:** Real-time KPI tracking, Excel formulas, charting  
-**Summary:** Created a workforce performance monitoring tool in Excel to track daily productivity and service levels.
+Welcome to my **Data Analysis Portfolio** — a curated collection of real-world projects showcasing my skills in **Excel, SQL, and Power BI**.  
+Each project tackles a business problem through **data cleaning, analysis, and visualisation**, delivering insights that drive decisions.
 
 ---
 
-## 🛠 Tools & Technologies
-- **Excel** — Pivot Tables, Charts, Conditional Formatting, Dashboarding
-- **SQL** — Joins, CTEs, Window Functions, Aggregations
-- **Power BI** — Data Modelling, DAX, Interactive Dashboards
-- **Presentation Tools** — PowerPoint, Business Storytelling
+## 📌 Projects Overview
+
+### [01 – Excel Sales Data Pivot Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/01-Excel-Sales-Performance-Analysis)
+- Created pivot tables and charts to analyse sales trends by product, region, and month.  
+- Delivered insights to support marketing and sales strategy decisions.
+
+### [02 – Excel HR Data Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/02-Excel-HR-Data-Insights)
+- Processed HR datasets to assess staff distribution, attrition trends, and performance metrics.  
+- Produced dashboards for HR planning.
+
+### [03 – Excel Company Sales Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/03-Excel-Daily-Product-Sales-Trends)
+- Designed a professional sales dashboard visualising KPIs such as total revenue, top-selling products, and sales trends.  
+- Enabled quick decision-making for the sales team.
+
+### [04 – Excel + PowerPoint Sales Presentation](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/04-Excel-Ecommerce-Sales-Drop)
+- Investigated a sharp decline in laptop sales between May and June 2025.  
+- Presented findings and recommendations in a **3-slide stakeholder deck**.
+
+### [05 – SQL Customer Orders & Inventory Analysis](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/05-SQL-Customer-Orders-Inventory)
+- Analysed customer orders and stock levels using SQL queries.  
+- Identified undelivered orders, low stock items, and segmented customers by behaviour.
+
+### [06 – Power BI Inventory & Supply Chain Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/06-PowerBI-Inventory-Supply-Chain-Dashboard)
+- Built an interactive dashboard tracking product availability, supplier performance, and stock turnover.  
+- Highlighted risks in the supply chain for proactive management.
+
+### [07 – SQL Patient Visits Data Cleaning](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/07-SQL-Patient-Visits-Data-Cleaning)
+- Cleaned and validated a large patient visit dataset.  
+- Prepared a ready-to-use dataset for healthcare analytics.
+
+### [08 – Excel WFM Real-Time Performance Dashboard](https://github.com/YOUR-USERNAME/YOUR-REPO/tree/main/08-Excel-Workforce-Performance-Monitoring)
+- Simulated real-time workforce monitoring in Excel.  
+- Measured key metrics like occupancy, service level, and agent productivity.
 
 ---
 
-> *This portfolio is a living record of my journey as a data analyst — every project builds my skills and tells a story through data.*
+## 🛠 Tools & Skills Demonstrated
+- **Excel** — Pivot Tables, Dashboards, Charts, Data Cleaning  
+- **SQL** — Data Extraction, Transformation, and Analysis  
+- **Power BI** — Interactive Dashboards and KPIs  
+- **Data Storytelling** — Presenting insights for stakeholders
+
+---
+
+## 📂 Repository Structure
+Each project folder contains:
+- **docs/** — Business problem statements, summaries, and reports  
+- **workbooks/** — Excel or source datasets  
+- **outputs/screenshots/** — Visuals, charts, and dashboards
+
+---
+
+## 🔍 How to Explore
+1. Click any project link above to open the folder.  
+2. Read the `README.md` inside for details on objectives, process, and results.  
+3. View `/workbooks/` and `/outputs/screenshots/` for datasets and visuals.
+
+---
+
+💡 *To see the full story behind the numbers, start exploring the project folders above.*
