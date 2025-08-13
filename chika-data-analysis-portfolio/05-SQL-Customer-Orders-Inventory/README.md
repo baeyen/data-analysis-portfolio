@@ -2,10 +2,6 @@
 
 *A brisk walk through real tables: what sold, who buys, what’s late, what’s low.*
 
-![Revenue by Product](outputs/screenshots/revenue-by-product.png)
-![Orders per Customer](outputs/screenshots/orders-per-customer.png)
-![Delivery Performance by Month](outputs/screenshots/delivery-performance-by-month.png)
-
 ## Purpose
 Join **Customers, Orders, Order_Details, Products, Deliveries** in SQL Server to answer:
 - Which **products drive revenue**?
