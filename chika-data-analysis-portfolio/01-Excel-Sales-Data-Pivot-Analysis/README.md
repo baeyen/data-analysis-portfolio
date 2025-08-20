@@ -5,10 +5,6 @@
 #What this project shows
 -How to turn a tidy sales table into pivot tables and a column chart
 
--How to answer: “Which region drives total sales?”
-
--A clean, recruiter-friendly result you can scan in seconds
-
 #Files in this folder
 
 01-Excel-Sales-Data-Pivot-Analysis/
